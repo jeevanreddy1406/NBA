@@ -1,0 +1,1899 @@
+season,lg,team,playoffs
+2026,NBA,Atlanta Hawks,False
+2026,NBA,Boston Celtics,False
+2026,NBA,Brooklyn Nets,False
+2026,NBA,Chicago Bulls,False
+2026,NBA,Charlotte Hornets,False
+2026,NBA,Cleveland Cavaliers,False
+2026,NBA,Dallas Mavericks,False
+2026,NBA,Denver Nuggets,False
+2026,NBA,Detroit Pistons,True
+2026,NBA,Golden State Warriors,False
+2026,NBA,Houston Rockets,False
+2026,NBA,Indiana Pacers,False
+2026,NBA,Los Angeles Clippers,False
+2026,NBA,Los Angeles Lakers,False
+2026,NBA,Memphis Grizzlies,False
+2026,NBA,Miami Heat,False
+2026,NBA,Milwaukee Bucks,False
+2026,NBA,Minnesota Timberwolves,False
+2026,NBA,New Orleans Pelicans,False
+2026,NBA,New York Knicks,False
+2026,NBA,Oklahoma City Thunder,True
+2026,NBA,Orlando Magic,False
+2026,NBA,Philadelphia 76ers,False
+2026,NBA,Phoenix Suns,False
+2026,NBA,Portland Trail Blazers,False
+2026,NBA,Sacramento Kings,False
+2026,NBA,San Antonio Spurs,True
+2026,NBA,Toronto Raptors,False
+2026,NBA,Utah Jazz,False
+2026,NBA,Washington Wizards,False
+2026,NBA,League Average,False
+2025,NBA,Atlanta Hawks,True
+2025,NBA,Boston Celtics,True
+2025,NBA,Brooklyn Nets,False
+2025,NBA,Chicago Bulls,True
+2025,NBA,Charlotte Hornets,False
+2025,NBA,Cleveland Cavaliers,True
+2025,NBA,Dallas Mavericks,True
+2025,NBA,Denver Nuggets,True
+2025,NBA,Detroit Pistons,True
+2025,NBA,Golden State Warriors,True
+2025,NBA,Houston Rockets,True
+2025,NBA,Indiana Pacers,True
+2025,NBA,Los Angeles Clippers,True
+2025,NBA,Los Angeles Lakers,True
+2025,NBA,Memphis Grizzlies,True
+2025,NBA,Miami Heat,True
+2025,NBA,Milwaukee Bucks,True
+2025,NBA,Minnesota Timberwolves,True
+2025,NBA,New Orleans Pelicans,False
+2025,NBA,New York Knicks,True
+2025,NBA,Oklahoma City Thunder,True
+2025,NBA,Orlando Magic,True
+2025,NBA,Philadelphia 76ers,False
+2025,NBA,Phoenix Suns,False
+2025,NBA,Portland Trail Blazers,False
+2025,NBA,Sacramento Kings,True
+2025,NBA,San Antonio Spurs,False
+2025,NBA,Toronto Raptors,False
+2025,NBA,Utah Jazz,False
+2025,NBA,Washington Wizards,False
+2025,NBA,League Average,False
+2024,NBA,Atlanta Hawks,False
+2024,NBA,Boston Celtics,True
+2024,NBA,Brooklyn Nets,False
+2024,NBA,Chicago Bulls,False
+2024,NBA,Charlotte Hornets,False
+2024,NBA,Cleveland Cavaliers,True
+2024,NBA,Dallas Mavericks,True
+2024,NBA,Denver Nuggets,True
+2024,NBA,Detroit Pistons,False
+2024,NBA,Golden State Warriors,False
+2024,NBA,Houston Rockets,False
+2024,NBA,Indiana Pacers,True
+2024,NBA,Los Angeles Clippers,True
+2024,NBA,Los Angeles Lakers,True
+2024,NBA,Memphis Grizzlies,False
+2024,NBA,Miami Heat,True
+2024,NBA,Milwaukee Bucks,True
+2024,NBA,Minnesota Timberwolves,True
+2024,NBA,New Orleans Pelicans,True
+2024,NBA,New York Knicks,True
+2024,NBA,Oklahoma City Thunder,True
+2024,NBA,Orlando Magic,True
+2024,NBA,Philadelphia 76ers,True
+2024,NBA,Phoenix Suns,True
+2024,NBA,Portland Trail Blazers,False
+2024,NBA,Sacramento Kings,False
+2024,NBA,San Antonio Spurs,False
+2024,NBA,Toronto Raptors,False
+2024,NBA,Utah Jazz,False
+2024,NBA,Washington Wizards,False
+2024,NBA,League Average,False
+2023,NBA,Atlanta Hawks,True
+2023,NBA,Boston Celtics,True
+2023,NBA,Brooklyn Nets,True
+2023,NBA,Chicago Bulls,False
+2023,NBA,Charlotte Hornets,False
+2023,NBA,Cleveland Cavaliers,True
+2023,NBA,Dallas Mavericks,False
+2023,NBA,Denver Nuggets,True
+2023,NBA,Detroit Pistons,False
+2023,NBA,Golden State Warriors,True
+2023,NBA,Houston Rockets,False
+2023,NBA,Indiana Pacers,False
+2023,NBA,Los Angeles Clippers,True
+2023,NBA,Los Angeles Lakers,True
+2023,NBA,Memphis Grizzlies,True
+2023,NBA,Miami Heat,True
+2023,NBA,Milwaukee Bucks,True
+2023,NBA,Minnesota Timberwolves,True
+2023,NBA,New Orleans Pelicans,False
+2023,NBA,New York Knicks,True
+2023,NBA,Oklahoma City Thunder,False
+2023,NBA,Orlando Magic,False
+2023,NBA,Philadelphia 76ers,True
+2023,NBA,Phoenix Suns,True
+2023,NBA,Portland Trail Blazers,False
+2023,NBA,Sacramento Kings,True
+2023,NBA,San Antonio Spurs,False
+2023,NBA,Toronto Raptors,False
+2023,NBA,Utah Jazz,False
+2023,NBA,Washington Wizards,False
+2023,NBA,League Average,False
+2022,NBA,Atlanta Hawks,True
+2022,NBA,Boston Celtics,True
+2022,NBA,Brooklyn Nets,True
+2022,NBA,Chicago Bulls,True
+2022,NBA,Charlotte Hornets,False
+2022,NBA,Cleveland Cavaliers,False
+2022,NBA,Dallas Mavericks,True
+2022,NBA,Denver Nuggets,True
+2022,NBA,Detroit Pistons,False
+2022,NBA,Golden State Warriors,True
+2022,NBA,Houston Rockets,False
+2022,NBA,Indiana Pacers,False
+2022,NBA,Los Angeles Clippers,False
+2022,NBA,Los Angeles Lakers,False
+2022,NBA,Memphis Grizzlies,True
+2022,NBA,Miami Heat,True
+2022,NBA,Milwaukee Bucks,True
+2022,NBA,Minnesota Timberwolves,True
+2022,NBA,New Orleans Pelicans,True
+2022,NBA,New York Knicks,False
+2022,NBA,Oklahoma City Thunder,False
+2022,NBA,Orlando Magic,False
+2022,NBA,Philadelphia 76ers,True
+2022,NBA,Phoenix Suns,True
+2022,NBA,Portland Trail Blazers,False
+2022,NBA,Sacramento Kings,False
+2022,NBA,San Antonio Spurs,False
+2022,NBA,Toronto Raptors,True
+2022,NBA,Utah Jazz,True
+2022,NBA,Washington Wizards,False
+2022,NBA,League Average,False
+2021,NBA,Atlanta Hawks,True
+2021,NBA,Boston Celtics,True
+2021,NBA,Brooklyn Nets,True
+2021,NBA,Chicago Bulls,False
+2021,NBA,Charlotte Hornets,False
+2021,NBA,Cleveland Cavaliers,False
+2021,NBA,Dallas Mavericks,True
+2021,NBA,Denver Nuggets,True
+2021,NBA,Detroit Pistons,False
+2021,NBA,Golden State Warriors,False
+2021,NBA,Houston Rockets,False
+2021,NBA,Indiana Pacers,False
+2021,NBA,Los Angeles Clippers,True
+2021,NBA,Los Angeles Lakers,True
+2021,NBA,Memphis Grizzlies,True
+2021,NBA,Miami Heat,True
+2021,NBA,Milwaukee Bucks,True
+2021,NBA,Minnesota Timberwolves,False
+2021,NBA,New Orleans Pelicans,False
+2021,NBA,New York Knicks,True
+2021,NBA,Oklahoma City Thunder,False
+2021,NBA,Orlando Magic,False
+2021,NBA,Philadelphia 76ers,True
+2021,NBA,Phoenix Suns,True
+2021,NBA,Portland Trail Blazers,True
+2021,NBA,Sacramento Kings,False
+2021,NBA,San Antonio Spurs,False
+2021,NBA,Toronto Raptors,False
+2021,NBA,Utah Jazz,True
+2021,NBA,Washington Wizards,True
+2021,NBA,League Average,False
+2020,NBA,Atlanta Hawks,False
+2020,NBA,Boston Celtics,True
+2020,NBA,Brooklyn Nets,True
+2020,NBA,Chicago Bulls,False
+2020,NBA,Charlotte Hornets,False
+2020,NBA,Cleveland Cavaliers,False
+2020,NBA,Dallas Mavericks,True
+2020,NBA,Denver Nuggets,True
+2020,NBA,Detroit Pistons,False
+2020,NBA,Golden State Warriors,False
+2020,NBA,Houston Rockets,True
+2020,NBA,Indiana Pacers,True
+2020,NBA,Los Angeles Clippers,True
+2020,NBA,Los Angeles Lakers,True
+2020,NBA,Memphis Grizzlies,False
+2020,NBA,Miami Heat,True
+2020,NBA,Milwaukee Bucks,True
+2020,NBA,Minnesota Timberwolves,False
+2020,NBA,New Orleans Pelicans,False
+2020,NBA,New York Knicks,False
+2020,NBA,Oklahoma City Thunder,True
+2020,NBA,Orlando Magic,True
+2020,NBA,Philadelphia 76ers,True
+2020,NBA,Phoenix Suns,False
+2020,NBA,Portland Trail Blazers,True
+2020,NBA,Sacramento Kings,False
+2020,NBA,San Antonio Spurs,False
+2020,NBA,Toronto Raptors,True
+2020,NBA,Utah Jazz,True
+2020,NBA,Washington Wizards,False
+2020,NBA,League Average,False
+2019,NBA,Atlanta Hawks,False
+2019,NBA,Boston Celtics,True
+2019,NBA,Brooklyn Nets,True
+2019,NBA,Chicago Bulls,False
+2019,NBA,Charlotte Hornets,False
+2019,NBA,Cleveland Cavaliers,False
+2019,NBA,Dallas Mavericks,False
+2019,NBA,Denver Nuggets,True
+2019,NBA,Detroit Pistons,True
+2019,NBA,Golden State Warriors,True
+2019,NBA,Houston Rockets,True
+2019,NBA,Indiana Pacers,True
+2019,NBA,Los Angeles Clippers,True
+2019,NBA,Los Angeles Lakers,False
+2019,NBA,Memphis Grizzlies,False
+2019,NBA,Miami Heat,False
+2019,NBA,Milwaukee Bucks,True
+2019,NBA,Minnesota Timberwolves,False
+2019,NBA,New Orleans Pelicans,False
+2019,NBA,New York Knicks,False
+2019,NBA,Oklahoma City Thunder,True
+2019,NBA,Orlando Magic,True
+2019,NBA,Philadelphia 76ers,True
+2019,NBA,Phoenix Suns,False
+2019,NBA,Portland Trail Blazers,True
+2019,NBA,Sacramento Kings,False
+2019,NBA,San Antonio Spurs,True
+2019,NBA,Toronto Raptors,True
+2019,NBA,Utah Jazz,True
+2019,NBA,Washington Wizards,False
+2019,NBA,League Average,False
+2018,NBA,Atlanta Hawks,False
+2018,NBA,Boston Celtics,True
+2018,NBA,Brooklyn Nets,False
+2018,NBA,Chicago Bulls,False
+2018,NBA,Charlotte Hornets,False
+2018,NBA,Cleveland Cavaliers,True
+2018,NBA,Dallas Mavericks,False
+2018,NBA,Denver Nuggets,False
+2018,NBA,Detroit Pistons,False
+2018,NBA,Golden State Warriors,True
+2018,NBA,Houston Rockets,True
+2018,NBA,Indiana Pacers,True
+2018,NBA,Los Angeles Clippers,False
+2018,NBA,Los Angeles Lakers,False
+2018,NBA,Memphis Grizzlies,False
+2018,NBA,Miami Heat,True
+2018,NBA,Milwaukee Bucks,True
+2018,NBA,Minnesota Timberwolves,True
+2018,NBA,New Orleans Pelicans,True
+2018,NBA,New York Knicks,False
+2018,NBA,Oklahoma City Thunder,True
+2018,NBA,Orlando Magic,False
+2018,NBA,Philadelphia 76ers,True
+2018,NBA,Phoenix Suns,False
+2018,NBA,Portland Trail Blazers,True
+2018,NBA,Sacramento Kings,False
+2018,NBA,San Antonio Spurs,True
+2018,NBA,Toronto Raptors,True
+2018,NBA,Utah Jazz,True
+2018,NBA,Washington Wizards,True
+2018,NBA,League Average,False
+2017,NBA,Atlanta Hawks,True
+2017,NBA,Boston Celtics,True
+2017,NBA,Brooklyn Nets,False
+2017,NBA,Chicago Bulls,True
+2017,NBA,Charlotte Hornets,False
+2017,NBA,Cleveland Cavaliers,True
+2017,NBA,Dallas Mavericks,False
+2017,NBA,Denver Nuggets,False
+2017,NBA,Detroit Pistons,False
+2017,NBA,Golden State Warriors,True
+2017,NBA,Houston Rockets,True
+2017,NBA,Indiana Pacers,True
+2017,NBA,Los Angeles Clippers,True
+2017,NBA,Los Angeles Lakers,False
+2017,NBA,Memphis Grizzlies,True
+2017,NBA,Miami Heat,False
+2017,NBA,Milwaukee Bucks,True
+2017,NBA,Minnesota Timberwolves,False
+2017,NBA,New Orleans Pelicans,False
+2017,NBA,New York Knicks,False
+2017,NBA,Oklahoma City Thunder,True
+2017,NBA,Orlando Magic,False
+2017,NBA,Philadelphia 76ers,False
+2017,NBA,Phoenix Suns,False
+2017,NBA,Portland Trail Blazers,True
+2017,NBA,Sacramento Kings,False
+2017,NBA,San Antonio Spurs,True
+2017,NBA,Toronto Raptors,True
+2017,NBA,Utah Jazz,True
+2017,NBA,Washington Wizards,True
+2017,NBA,League Average,False
+2016,NBA,Atlanta Hawks,True
+2016,NBA,Boston Celtics,True
+2016,NBA,Brooklyn Nets,False
+2016,NBA,Chicago Bulls,False
+2016,NBA,Charlotte Hornets,True
+2016,NBA,Cleveland Cavaliers,True
+2016,NBA,Dallas Mavericks,True
+2016,NBA,Denver Nuggets,False
+2016,NBA,Detroit Pistons,True
+2016,NBA,Golden State Warriors,True
+2016,NBA,Houston Rockets,True
+2016,NBA,Indiana Pacers,True
+2016,NBA,Los Angeles Clippers,True
+2016,NBA,Los Angeles Lakers,False
+2016,NBA,Memphis Grizzlies,True
+2016,NBA,Miami Heat,True
+2016,NBA,Milwaukee Bucks,False
+2016,NBA,Minnesota Timberwolves,False
+2016,NBA,New Orleans Pelicans,False
+2016,NBA,New York Knicks,False
+2016,NBA,Oklahoma City Thunder,True
+2016,NBA,Orlando Magic,False
+2016,NBA,Philadelphia 76ers,False
+2016,NBA,Phoenix Suns,False
+2016,NBA,Portland Trail Blazers,True
+2016,NBA,Sacramento Kings,False
+2016,NBA,San Antonio Spurs,True
+2016,NBA,Toronto Raptors,True
+2016,NBA,Utah Jazz,False
+2016,NBA,Washington Wizards,False
+2016,NBA,League Average,False
+2015,NBA,Atlanta Hawks,True
+2015,NBA,Boston Celtics,True
+2015,NBA,Brooklyn Nets,True
+2015,NBA,Chicago Bulls,True
+2015,NBA,Charlotte Hornets,False
+2015,NBA,Cleveland Cavaliers,True
+2015,NBA,Dallas Mavericks,True
+2015,NBA,Denver Nuggets,False
+2015,NBA,Detroit Pistons,False
+2015,NBA,Golden State Warriors,True
+2015,NBA,Houston Rockets,True
+2015,NBA,Indiana Pacers,False
+2015,NBA,Los Angeles Clippers,True
+2015,NBA,Los Angeles Lakers,False
+2015,NBA,Memphis Grizzlies,True
+2015,NBA,Miami Heat,False
+2015,NBA,Milwaukee Bucks,True
+2015,NBA,Minnesota Timberwolves,False
+2015,NBA,New Orleans Pelicans,True
+2015,NBA,New York Knicks,False
+2015,NBA,Oklahoma City Thunder,False
+2015,NBA,Orlando Magic,False
+2015,NBA,Philadelphia 76ers,False
+2015,NBA,Phoenix Suns,False
+2015,NBA,Portland Trail Blazers,True
+2015,NBA,Sacramento Kings,False
+2015,NBA,San Antonio Spurs,True
+2015,NBA,Toronto Raptors,True
+2015,NBA,Utah Jazz,False
+2015,NBA,Washington Wizards,True
+2015,NBA,League Average,False
+2014,NBA,Atlanta Hawks,True
+2014,NBA,Boston Celtics,False
+2014,NBA,Brooklyn Nets,True
+2014,NBA,Charlotte Bobcats,True
+2014,NBA,Chicago Bulls,True
+2014,NBA,Cleveland Cavaliers,False
+2014,NBA,Dallas Mavericks,True
+2014,NBA,Denver Nuggets,False
+2014,NBA,Detroit Pistons,False
+2014,NBA,Golden State Warriors,True
+2014,NBA,Houston Rockets,True
+2014,NBA,Indiana Pacers,True
+2014,NBA,Los Angeles Clippers,True
+2014,NBA,Los Angeles Lakers,False
+2014,NBA,Memphis Grizzlies,True
+2014,NBA,Miami Heat,True
+2014,NBA,Milwaukee Bucks,False
+2014,NBA,Minnesota Timberwolves,False
+2014,NBA,New Orleans Pelicans,False
+2014,NBA,New York Knicks,False
+2014,NBA,Oklahoma City Thunder,True
+2014,NBA,Orlando Magic,False
+2014,NBA,Philadelphia 76ers,False
+2014,NBA,Phoenix Suns,False
+2014,NBA,Portland Trail Blazers,True
+2014,NBA,Sacramento Kings,False
+2014,NBA,San Antonio Spurs,True
+2014,NBA,Toronto Raptors,True
+2014,NBA,Utah Jazz,False
+2014,NBA,Washington Wizards,True
+2014,NBA,League Average,False
+2013,NBA,Atlanta Hawks,True
+2013,NBA,Boston Celtics,True
+2013,NBA,Brooklyn Nets,True
+2013,NBA,Charlotte Bobcats,False
+2013,NBA,Chicago Bulls,True
+2013,NBA,Cleveland Cavaliers,False
+2013,NBA,Dallas Mavericks,False
+2013,NBA,Denver Nuggets,True
+2013,NBA,Detroit Pistons,False
+2013,NBA,Golden State Warriors,True
+2013,NBA,Houston Rockets,True
+2013,NBA,Indiana Pacers,True
+2013,NBA,Los Angeles Clippers,True
+2013,NBA,Los Angeles Lakers,True
+2013,NBA,Memphis Grizzlies,True
+2013,NBA,Miami Heat,True
+2013,NBA,Milwaukee Bucks,True
+2013,NBA,Minnesota Timberwolves,False
+2013,NBA,New Orleans Hornets,False
+2013,NBA,New York Knicks,True
+2013,NBA,Oklahoma City Thunder,True
+2013,NBA,Orlando Magic,False
+2013,NBA,Philadelphia 76ers,False
+2013,NBA,Phoenix Suns,False
+2013,NBA,Portland Trail Blazers,False
+2013,NBA,Sacramento Kings,False
+2013,NBA,San Antonio Spurs,True
+2013,NBA,Toronto Raptors,False
+2013,NBA,Utah Jazz,False
+2013,NBA,Washington Wizards,False
+2013,NBA,League Average,False
+2012,NBA,Atlanta Hawks,True
+2012,NBA,Boston Celtics,True
+2012,NBA,Charlotte Bobcats,False
+2012,NBA,Chicago Bulls,True
+2012,NBA,Cleveland Cavaliers,False
+2012,NBA,Dallas Mavericks,True
+2012,NBA,Denver Nuggets,True
+2012,NBA,Detroit Pistons,False
+2012,NBA,Golden State Warriors,False
+2012,NBA,Houston Rockets,False
+2012,NBA,Indiana Pacers,True
+2012,NBA,Los Angeles Clippers,True
+2012,NBA,Los Angeles Lakers,True
+2012,NBA,Memphis Grizzlies,True
+2012,NBA,Miami Heat,True
+2012,NBA,Milwaukee Bucks,False
+2012,NBA,Minnesota Timberwolves,False
+2012,NBA,New Jersey Nets,False
+2012,NBA,New Orleans Hornets,False
+2012,NBA,New York Knicks,True
+2012,NBA,Oklahoma City Thunder,True
+2012,NBA,Orlando Magic,True
+2012,NBA,Philadelphia 76ers,True
+2012,NBA,Phoenix Suns,False
+2012,NBA,Portland Trail Blazers,False
+2012,NBA,Sacramento Kings,False
+2012,NBA,San Antonio Spurs,True
+2012,NBA,Toronto Raptors,False
+2012,NBA,Utah Jazz,True
+2012,NBA,Washington Wizards,False
+2012,NBA,League Average,False
+2011,NBA,Atlanta Hawks,True
+2011,NBA,Boston Celtics,True
+2011,NBA,Charlotte Bobcats,False
+2011,NBA,Chicago Bulls,True
+2011,NBA,Cleveland Cavaliers,False
+2011,NBA,Dallas Mavericks,True
+2011,NBA,Denver Nuggets,True
+2011,NBA,Detroit Pistons,False
+2011,NBA,Golden State Warriors,False
+2011,NBA,Houston Rockets,False
+2011,NBA,Indiana Pacers,True
+2011,NBA,Los Angeles Clippers,False
+2011,NBA,Los Angeles Lakers,True
+2011,NBA,Memphis Grizzlies,True
+2011,NBA,Miami Heat,True
+2011,NBA,Milwaukee Bucks,False
+2011,NBA,Minnesota Timberwolves,False
+2011,NBA,New Jersey Nets,False
+2011,NBA,New Orleans Hornets,True
+2011,NBA,New York Knicks,True
+2011,NBA,Oklahoma City Thunder,True
+2011,NBA,Orlando Magic,True
+2011,NBA,Philadelphia 76ers,True
+2011,NBA,Phoenix Suns,False
+2011,NBA,Portland Trail Blazers,True
+2011,NBA,Sacramento Kings,False
+2011,NBA,San Antonio Spurs,True
+2011,NBA,Toronto Raptors,False
+2011,NBA,Utah Jazz,False
+2011,NBA,Washington Wizards,False
+2011,NBA,League Average,False
+2010,NBA,Atlanta Hawks,True
+2010,NBA,Boston Celtics,True
+2010,NBA,Charlotte Bobcats,True
+2010,NBA,Chicago Bulls,True
+2010,NBA,Cleveland Cavaliers,True
+2010,NBA,Dallas Mavericks,True
+2010,NBA,Denver Nuggets,True
+2010,NBA,Detroit Pistons,False
+2010,NBA,Golden State Warriors,False
+2010,NBA,Houston Rockets,False
+2010,NBA,Indiana Pacers,False
+2010,NBA,Los Angeles Clippers,False
+2010,NBA,Los Angeles Lakers,True
+2010,NBA,Memphis Grizzlies,False
+2010,NBA,Miami Heat,True
+2010,NBA,Milwaukee Bucks,True
+2010,NBA,Minnesota Timberwolves,False
+2010,NBA,New Jersey Nets,False
+2010,NBA,New Orleans Hornets,False
+2010,NBA,New York Knicks,False
+2010,NBA,Oklahoma City Thunder,True
+2010,NBA,Orlando Magic,True
+2010,NBA,Philadelphia 76ers,False
+2010,NBA,Phoenix Suns,True
+2010,NBA,Portland Trail Blazers,True
+2010,NBA,Sacramento Kings,False
+2010,NBA,San Antonio Spurs,True
+2010,NBA,Toronto Raptors,False
+2010,NBA,Utah Jazz,True
+2010,NBA,Washington Wizards,False
+2010,NBA,League Average,False
+2009,NBA,Atlanta Hawks,True
+2009,NBA,Boston Celtics,True
+2009,NBA,Charlotte Bobcats,False
+2009,NBA,Chicago Bulls,True
+2009,NBA,Cleveland Cavaliers,True
+2009,NBA,Dallas Mavericks,True
+2009,NBA,Denver Nuggets,True
+2009,NBA,Detroit Pistons,True
+2009,NBA,Golden State Warriors,False
+2009,NBA,Houston Rockets,True
+2009,NBA,Indiana Pacers,False
+2009,NBA,Los Angeles Clippers,False
+2009,NBA,Los Angeles Lakers,True
+2009,NBA,Memphis Grizzlies,False
+2009,NBA,Miami Heat,True
+2009,NBA,Milwaukee Bucks,False
+2009,NBA,Minnesota Timberwolves,False
+2009,NBA,New Jersey Nets,False
+2009,NBA,New Orleans Hornets,True
+2009,NBA,New York Knicks,False
+2009,NBA,Oklahoma City Thunder,False
+2009,NBA,Orlando Magic,True
+2009,NBA,Philadelphia 76ers,True
+2009,NBA,Phoenix Suns,False
+2009,NBA,Portland Trail Blazers,True
+2009,NBA,Sacramento Kings,False
+2009,NBA,San Antonio Spurs,True
+2009,NBA,Toronto Raptors,False
+2009,NBA,Utah Jazz,True
+2009,NBA,Washington Wizards,False
+2009,NBA,League Average,False
+2008,NBA,Atlanta Hawks,True
+2008,NBA,Boston Celtics,True
+2008,NBA,Charlotte Bobcats,False
+2008,NBA,Chicago Bulls,False
+2008,NBA,Cleveland Cavaliers,True
+2008,NBA,Dallas Mavericks,True
+2008,NBA,Denver Nuggets,True
+2008,NBA,Detroit Pistons,True
+2008,NBA,Golden State Warriors,False
+2008,NBA,Houston Rockets,True
+2008,NBA,Indiana Pacers,False
+2008,NBA,Los Angeles Clippers,False
+2008,NBA,Los Angeles Lakers,True
+2008,NBA,Memphis Grizzlies,False
+2008,NBA,Miami Heat,False
+2008,NBA,Milwaukee Bucks,False
+2008,NBA,Minnesota Timberwolves,False
+2008,NBA,New Jersey Nets,False
+2008,NBA,New Orleans Hornets,True
+2008,NBA,New York Knicks,False
+2008,NBA,Orlando Magic,True
+2008,NBA,Philadelphia 76ers,True
+2008,NBA,Phoenix Suns,True
+2008,NBA,Portland Trail Blazers,False
+2008,NBA,Sacramento Kings,False
+2008,NBA,San Antonio Spurs,True
+2008,NBA,Seattle SuperSonics,False
+2008,NBA,Toronto Raptors,True
+2008,NBA,Utah Jazz,True
+2008,NBA,Washington Wizards,True
+2008,NBA,League Average,False
+2007,NBA,Atlanta Hawks,False
+2007,NBA,Boston Celtics,False
+2007,NBA,Charlotte Bobcats,False
+2007,NBA,Chicago Bulls,True
+2007,NBA,Cleveland Cavaliers,True
+2007,NBA,Dallas Mavericks,True
+2007,NBA,Denver Nuggets,True
+2007,NBA,Detroit Pistons,True
+2007,NBA,Golden State Warriors,True
+2007,NBA,Houston Rockets,True
+2007,NBA,Indiana Pacers,False
+2007,NBA,Los Angeles Clippers,False
+2007,NBA,Los Angeles Lakers,True
+2007,NBA,Memphis Grizzlies,False
+2007,NBA,Miami Heat,True
+2007,NBA,Milwaukee Bucks,False
+2007,NBA,Minnesota Timberwolves,False
+2007,NBA,New Jersey Nets,True
+2007,NBA,New Orleans/Oklahoma City Hornets,False
+2007,NBA,New York Knicks,False
+2007,NBA,Orlando Magic,True
+2007,NBA,Philadelphia 76ers,False
+2007,NBA,Phoenix Suns,True
+2007,NBA,Portland Trail Blazers,False
+2007,NBA,Sacramento Kings,False
+2007,NBA,San Antonio Spurs,True
+2007,NBA,Seattle SuperSonics,False
+2007,NBA,Toronto Raptors,True
+2007,NBA,Utah Jazz,True
+2007,NBA,Washington Wizards,True
+2007,NBA,League Average,False
+2006,NBA,Atlanta Hawks,False
+2006,NBA,Boston Celtics,False
+2006,NBA,Charlotte Bobcats,False
+2006,NBA,Chicago Bulls,True
+2006,NBA,Cleveland Cavaliers,True
+2006,NBA,Dallas Mavericks,True
+2006,NBA,Denver Nuggets,True
+2006,NBA,Detroit Pistons,True
+2006,NBA,Golden State Warriors,False
+2006,NBA,Houston Rockets,False
+2006,NBA,Indiana Pacers,True
+2006,NBA,Los Angeles Clippers,True
+2006,NBA,Los Angeles Lakers,True
+2006,NBA,Memphis Grizzlies,True
+2006,NBA,Miami Heat,True
+2006,NBA,Milwaukee Bucks,True
+2006,NBA,Minnesota Timberwolves,False
+2006,NBA,New Jersey Nets,True
+2006,NBA,New Orleans/Oklahoma City Hornets,False
+2006,NBA,New York Knicks,False
+2006,NBA,Orlando Magic,False
+2006,NBA,Philadelphia 76ers,False
+2006,NBA,Phoenix Suns,True
+2006,NBA,Portland Trail Blazers,False
+2006,NBA,Sacramento Kings,True
+2006,NBA,San Antonio Spurs,True
+2006,NBA,Seattle SuperSonics,False
+2006,NBA,Toronto Raptors,False
+2006,NBA,Utah Jazz,False
+2006,NBA,Washington Wizards,True
+2006,NBA,League Average,False
+2005,NBA,Atlanta Hawks,False
+2005,NBA,Boston Celtics,True
+2005,NBA,Charlotte Bobcats,False
+2005,NBA,Chicago Bulls,True
+2005,NBA,Cleveland Cavaliers,False
+2005,NBA,Dallas Mavericks,True
+2005,NBA,Denver Nuggets,True
+2005,NBA,Detroit Pistons,True
+2005,NBA,Golden State Warriors,False
+2005,NBA,Houston Rockets,True
+2005,NBA,Indiana Pacers,True
+2005,NBA,Los Angeles Clippers,False
+2005,NBA,Los Angeles Lakers,False
+2005,NBA,Memphis Grizzlies,True
+2005,NBA,Miami Heat,True
+2005,NBA,Milwaukee Bucks,False
+2005,NBA,Minnesota Timberwolves,False
+2005,NBA,New Jersey Nets,True
+2005,NBA,New Orleans Hornets,False
+2005,NBA,New York Knicks,False
+2005,NBA,Orlando Magic,False
+2005,NBA,Philadelphia 76ers,True
+2005,NBA,Phoenix Suns,True
+2005,NBA,Portland Trail Blazers,False
+2005,NBA,Sacramento Kings,True
+2005,NBA,San Antonio Spurs,True
+2005,NBA,Seattle SuperSonics,True
+2005,NBA,Toronto Raptors,False
+2005,NBA,Utah Jazz,False
+2005,NBA,Washington Wizards,True
+2005,NBA,League Average,False
+2004,NBA,Atlanta Hawks,False
+2004,NBA,Boston Celtics,True
+2004,NBA,Chicago Bulls,False
+2004,NBA,Cleveland Cavaliers,False
+2004,NBA,Dallas Mavericks,True
+2004,NBA,Denver Nuggets,True
+2004,NBA,Detroit Pistons,True
+2004,NBA,Golden State Warriors,False
+2004,NBA,Houston Rockets,True
+2004,NBA,Indiana Pacers,True
+2004,NBA,Los Angeles Clippers,False
+2004,NBA,Los Angeles Lakers,True
+2004,NBA,Memphis Grizzlies,True
+2004,NBA,Miami Heat,True
+2004,NBA,Milwaukee Bucks,True
+2004,NBA,Minnesota Timberwolves,True
+2004,NBA,New Jersey Nets,True
+2004,NBA,New Orleans Hornets,True
+2004,NBA,New York Knicks,True
+2004,NBA,Orlando Magic,False
+2004,NBA,Philadelphia 76ers,False
+2004,NBA,Phoenix Suns,False
+2004,NBA,Portland Trail Blazers,False
+2004,NBA,Sacramento Kings,True
+2004,NBA,San Antonio Spurs,True
+2004,NBA,Seattle SuperSonics,False
+2004,NBA,Toronto Raptors,False
+2004,NBA,Utah Jazz,False
+2004,NBA,Washington Wizards,False
+2004,NBA,League Average,False
+2003,NBA,Atlanta Hawks,False
+2003,NBA,Boston Celtics,True
+2003,NBA,Chicago Bulls,False
+2003,NBA,Cleveland Cavaliers,False
+2003,NBA,Dallas Mavericks,True
+2003,NBA,Denver Nuggets,False
+2003,NBA,Detroit Pistons,True
+2003,NBA,Golden State Warriors,False
+2003,NBA,Houston Rockets,False
+2003,NBA,Indiana Pacers,True
+2003,NBA,Los Angeles Clippers,False
+2003,NBA,Los Angeles Lakers,True
+2003,NBA,Memphis Grizzlies,False
+2003,NBA,Miami Heat,False
+2003,NBA,Milwaukee Bucks,True
+2003,NBA,Minnesota Timberwolves,True
+2003,NBA,New Jersey Nets,True
+2003,NBA,New Orleans Hornets,True
+2003,NBA,New York Knicks,False
+2003,NBA,Orlando Magic,True
+2003,NBA,Philadelphia 76ers,True
+2003,NBA,Phoenix Suns,True
+2003,NBA,Portland Trail Blazers,True
+2003,NBA,Sacramento Kings,True
+2003,NBA,San Antonio Spurs,True
+2003,NBA,Seattle SuperSonics,False
+2003,NBA,Toronto Raptors,False
+2003,NBA,Utah Jazz,True
+2003,NBA,Washington Wizards,False
+2003,NBA,League Average,False
+2002,NBA,Atlanta Hawks,False
+2002,NBA,Boston Celtics,True
+2002,NBA,Charlotte Hornets,True
+2002,NBA,Chicago Bulls,False
+2002,NBA,Cleveland Cavaliers,False
+2002,NBA,Dallas Mavericks,True
+2002,NBA,Denver Nuggets,False
+2002,NBA,Detroit Pistons,True
+2002,NBA,Golden State Warriors,False
+2002,NBA,Houston Rockets,False
+2002,NBA,Indiana Pacers,True
+2002,NBA,Los Angeles Clippers,False
+2002,NBA,Los Angeles Lakers,True
+2002,NBA,Memphis Grizzlies,False
+2002,NBA,Miami Heat,False
+2002,NBA,Milwaukee Bucks,False
+2002,NBA,Minnesota Timberwolves,True
+2002,NBA,New Jersey Nets,True
+2002,NBA,New York Knicks,False
+2002,NBA,Orlando Magic,True
+2002,NBA,Philadelphia 76ers,True
+2002,NBA,Phoenix Suns,False
+2002,NBA,Portland Trail Blazers,True
+2002,NBA,Sacramento Kings,True
+2002,NBA,San Antonio Spurs,True
+2002,NBA,Seattle SuperSonics,True
+2002,NBA,Toronto Raptors,True
+2002,NBA,Utah Jazz,True
+2002,NBA,Washington Wizards,False
+2002,NBA,League Average,False
+2001,NBA,Atlanta Hawks,False
+2001,NBA,Boston Celtics,False
+2001,NBA,Charlotte Hornets,True
+2001,NBA,Chicago Bulls,False
+2001,NBA,Cleveland Cavaliers,False
+2001,NBA,Dallas Mavericks,True
+2001,NBA,Denver Nuggets,False
+2001,NBA,Detroit Pistons,False
+2001,NBA,Golden State Warriors,False
+2001,NBA,Houston Rockets,False
+2001,NBA,Indiana Pacers,True
+2001,NBA,Los Angeles Clippers,False
+2001,NBA,Los Angeles Lakers,True
+2001,NBA,Miami Heat,True
+2001,NBA,Milwaukee Bucks,True
+2001,NBA,Minnesota Timberwolves,True
+2001,NBA,New Jersey Nets,False
+2001,NBA,New York Knicks,True
+2001,NBA,Orlando Magic,True
+2001,NBA,Philadelphia 76ers,True
+2001,NBA,Phoenix Suns,True
+2001,NBA,Portland Trail Blazers,True
+2001,NBA,Sacramento Kings,True
+2001,NBA,San Antonio Spurs,True
+2001,NBA,Seattle SuperSonics,False
+2001,NBA,Toronto Raptors,True
+2001,NBA,Utah Jazz,True
+2001,NBA,Vancouver Grizzlies,False
+2001,NBA,Washington Wizards,False
+2001,NBA,League Average,False
+2000,NBA,Atlanta Hawks,False
+2000,NBA,Boston Celtics,False
+2000,NBA,Charlotte Hornets,True
+2000,NBA,Chicago Bulls,False
+2000,NBA,Cleveland Cavaliers,False
+2000,NBA,Dallas Mavericks,False
+2000,NBA,Denver Nuggets,False
+2000,NBA,Detroit Pistons,True
+2000,NBA,Golden State Warriors,False
+2000,NBA,Houston Rockets,False
+2000,NBA,Indiana Pacers,True
+2000,NBA,Los Angeles Clippers,False
+2000,NBA,Los Angeles Lakers,True
+2000,NBA,Miami Heat,True
+2000,NBA,Milwaukee Bucks,True
+2000,NBA,Minnesota Timberwolves,True
+2000,NBA,New Jersey Nets,False
+2000,NBA,New York Knicks,True
+2000,NBA,Orlando Magic,False
+2000,NBA,Philadelphia 76ers,True
+2000,NBA,Phoenix Suns,True
+2000,NBA,Portland Trail Blazers,True
+2000,NBA,Sacramento Kings,True
+2000,NBA,San Antonio Spurs,True
+2000,NBA,Seattle SuperSonics,True
+2000,NBA,Toronto Raptors,True
+2000,NBA,Utah Jazz,True
+2000,NBA,Vancouver Grizzlies,False
+2000,NBA,Washington Wizards,False
+2000,NBA,League Average,False
+1999,NBA,Atlanta Hawks,True
+1999,NBA,Boston Celtics,False
+1999,NBA,Charlotte Hornets,False
+1999,NBA,Chicago Bulls,False
+1999,NBA,Cleveland Cavaliers,False
+1999,NBA,Dallas Mavericks,False
+1999,NBA,Denver Nuggets,False
+1999,NBA,Detroit Pistons,True
+1999,NBA,Golden State Warriors,False
+1999,NBA,Houston Rockets,True
+1999,NBA,Indiana Pacers,True
+1999,NBA,Los Angeles Clippers,False
+1999,NBA,Los Angeles Lakers,True
+1999,NBA,Miami Heat,True
+1999,NBA,Milwaukee Bucks,True
+1999,NBA,Minnesota Timberwolves,True
+1999,NBA,New Jersey Nets,False
+1999,NBA,New York Knicks,True
+1999,NBA,Orlando Magic,True
+1999,NBA,Philadelphia 76ers,True
+1999,NBA,Phoenix Suns,True
+1999,NBA,Portland Trail Blazers,True
+1999,NBA,Sacramento Kings,True
+1999,NBA,San Antonio Spurs,True
+1999,NBA,Seattle SuperSonics,False
+1999,NBA,Toronto Raptors,False
+1999,NBA,Utah Jazz,True
+1999,NBA,Vancouver Grizzlies,False
+1999,NBA,Washington Wizards,False
+1999,NBA,League Average,False
+1998,NBA,Atlanta Hawks,True
+1998,NBA,Boston Celtics,False
+1998,NBA,Charlotte Hornets,True
+1998,NBA,Chicago Bulls,True
+1998,NBA,Cleveland Cavaliers,True
+1998,NBA,Dallas Mavericks,False
+1998,NBA,Denver Nuggets,False
+1998,NBA,Detroit Pistons,False
+1998,NBA,Golden State Warriors,False
+1998,NBA,Houston Rockets,True
+1998,NBA,Indiana Pacers,True
+1998,NBA,Los Angeles Clippers,False
+1998,NBA,Los Angeles Lakers,True
+1998,NBA,Miami Heat,True
+1998,NBA,Milwaukee Bucks,False
+1998,NBA,Minnesota Timberwolves,True
+1998,NBA,New Jersey Nets,True
+1998,NBA,New York Knicks,True
+1998,NBA,Orlando Magic,False
+1998,NBA,Philadelphia 76ers,False
+1998,NBA,Phoenix Suns,True
+1998,NBA,Portland Trail Blazers,True
+1998,NBA,Sacramento Kings,False
+1998,NBA,San Antonio Spurs,True
+1998,NBA,Seattle SuperSonics,True
+1998,NBA,Toronto Raptors,False
+1998,NBA,Utah Jazz,True
+1998,NBA,Vancouver Grizzlies,False
+1998,NBA,Washington Wizards,False
+1998,NBA,League Average,False
+1997,NBA,Atlanta Hawks,True
+1997,NBA,Boston Celtics,False
+1997,NBA,Charlotte Hornets,True
+1997,NBA,Chicago Bulls,True
+1997,NBA,Cleveland Cavaliers,False
+1997,NBA,Dallas Mavericks,False
+1997,NBA,Denver Nuggets,False
+1997,NBA,Detroit Pistons,True
+1997,NBA,Golden State Warriors,False
+1997,NBA,Houston Rockets,True
+1997,NBA,Indiana Pacers,False
+1997,NBA,Los Angeles Clippers,True
+1997,NBA,Los Angeles Lakers,True
+1997,NBA,Miami Heat,True
+1997,NBA,Milwaukee Bucks,False
+1997,NBA,Minnesota Timberwolves,True
+1997,NBA,New Jersey Nets,False
+1997,NBA,New York Knicks,True
+1997,NBA,Orlando Magic,True
+1997,NBA,Philadelphia 76ers,False
+1997,NBA,Phoenix Suns,True
+1997,NBA,Portland Trail Blazers,True
+1997,NBA,Sacramento Kings,False
+1997,NBA,San Antonio Spurs,False
+1997,NBA,Seattle SuperSonics,True
+1997,NBA,Toronto Raptors,False
+1997,NBA,Utah Jazz,True
+1997,NBA,Vancouver Grizzlies,False
+1997,NBA,Washington Bullets,True
+1997,NBA,League Average,False
+1996,NBA,Atlanta Hawks,True
+1996,NBA,Boston Celtics,False
+1996,NBA,Charlotte Hornets,False
+1996,NBA,Chicago Bulls,True
+1996,NBA,Cleveland Cavaliers,True
+1996,NBA,Dallas Mavericks,False
+1996,NBA,Denver Nuggets,False
+1996,NBA,Detroit Pistons,True
+1996,NBA,Golden State Warriors,False
+1996,NBA,Houston Rockets,True
+1996,NBA,Indiana Pacers,True
+1996,NBA,Los Angeles Clippers,False
+1996,NBA,Los Angeles Lakers,True
+1996,NBA,Miami Heat,True
+1996,NBA,Milwaukee Bucks,False
+1996,NBA,Minnesota Timberwolves,False
+1996,NBA,New Jersey Nets,False
+1996,NBA,New York Knicks,True
+1996,NBA,Orlando Magic,True
+1996,NBA,Philadelphia 76ers,False
+1996,NBA,Phoenix Suns,True
+1996,NBA,Portland Trail Blazers,True
+1996,NBA,Sacramento Kings,True
+1996,NBA,San Antonio Spurs,True
+1996,NBA,Seattle SuperSonics,True
+1996,NBA,Toronto Raptors,False
+1996,NBA,Utah Jazz,True
+1996,NBA,Vancouver Grizzlies,False
+1996,NBA,Washington Bullets,False
+1996,NBA,League Average,False
+1995,NBA,Atlanta Hawks,True
+1995,NBA,Boston Celtics,True
+1995,NBA,Charlotte Hornets,True
+1995,NBA,Chicago Bulls,True
+1995,NBA,Cleveland Cavaliers,True
+1995,NBA,Dallas Mavericks,False
+1995,NBA,Denver Nuggets,True
+1995,NBA,Detroit Pistons,False
+1995,NBA,Golden State Warriors,False
+1995,NBA,Houston Rockets,True
+1995,NBA,Indiana Pacers,True
+1995,NBA,Los Angeles Clippers,False
+1995,NBA,Los Angeles Lakers,True
+1995,NBA,Miami Heat,False
+1995,NBA,Milwaukee Bucks,False
+1995,NBA,Minnesota Timberwolves,False
+1995,NBA,New Jersey Nets,False
+1995,NBA,New York Knicks,True
+1995,NBA,Orlando Magic,True
+1995,NBA,Philadelphia 76ers,False
+1995,NBA,Phoenix Suns,True
+1995,NBA,Portland Trail Blazers,True
+1995,NBA,Sacramento Kings,False
+1995,NBA,San Antonio Spurs,True
+1995,NBA,Seattle SuperSonics,True
+1995,NBA,Utah Jazz,True
+1995,NBA,Washington Bullets,False
+1995,NBA,League Average,False
+1994,NBA,Atlanta Hawks,True
+1994,NBA,Boston Celtics,False
+1994,NBA,Charlotte Hornets,False
+1994,NBA,Chicago Bulls,True
+1994,NBA,Cleveland Cavaliers,True
+1994,NBA,Dallas Mavericks,False
+1994,NBA,Denver Nuggets,True
+1994,NBA,Detroit Pistons,False
+1994,NBA,Golden State Warriors,True
+1994,NBA,Houston Rockets,True
+1994,NBA,Indiana Pacers,True
+1994,NBA,Los Angeles Clippers,False
+1994,NBA,Los Angeles Lakers,False
+1994,NBA,Miami Heat,True
+1994,NBA,Milwaukee Bucks,False
+1994,NBA,Minnesota Timberwolves,False
+1994,NBA,New Jersey Nets,True
+1994,NBA,New York Knicks,True
+1994,NBA,Orlando Magic,True
+1994,NBA,Philadelphia 76ers,False
+1994,NBA,Phoenix Suns,True
+1994,NBA,Portland Trail Blazers,True
+1994,NBA,Sacramento Kings,False
+1994,NBA,San Antonio Spurs,True
+1994,NBA,Seattle SuperSonics,True
+1994,NBA,Utah Jazz,True
+1994,NBA,Washington Bullets,False
+1994,NBA,League Average,False
+1993,NBA,Atlanta Hawks,True
+1993,NBA,Boston Celtics,True
+1993,NBA,Charlotte Hornets,True
+1993,NBA,Chicago Bulls,True
+1993,NBA,Cleveland Cavaliers,True
+1993,NBA,Dallas Mavericks,False
+1993,NBA,Denver Nuggets,False
+1993,NBA,Detroit Pistons,False
+1993,NBA,Golden State Warriors,False
+1993,NBA,Houston Rockets,True
+1993,NBA,Indiana Pacers,True
+1993,NBA,Los Angeles Clippers,True
+1993,NBA,Los Angeles Lakers,True
+1993,NBA,Miami Heat,False
+1993,NBA,Milwaukee Bucks,False
+1993,NBA,Minnesota Timberwolves,False
+1993,NBA,New Jersey Nets,True
+1993,NBA,New York Knicks,True
+1993,NBA,Orlando Magic,False
+1993,NBA,Philadelphia 76ers,False
+1993,NBA,Phoenix Suns,True
+1993,NBA,Portland Trail Blazers,True
+1993,NBA,Sacramento Kings,False
+1993,NBA,San Antonio Spurs,True
+1993,NBA,Seattle SuperSonics,True
+1993,NBA,Utah Jazz,True
+1993,NBA,Washington Bullets,False
+1993,NBA,League Average,False
+1992,NBA,Atlanta Hawks,False
+1992,NBA,Boston Celtics,True
+1992,NBA,Charlotte Hornets,False
+1992,NBA,Chicago Bulls,True
+1992,NBA,Cleveland Cavaliers,True
+1992,NBA,Dallas Mavericks,False
+1992,NBA,Denver Nuggets,False
+1992,NBA,Detroit Pistons,True
+1992,NBA,Golden State Warriors,True
+1992,NBA,Houston Rockets,False
+1992,NBA,Indiana Pacers,True
+1992,NBA,Los Angeles Clippers,True
+1992,NBA,Los Angeles Lakers,True
+1992,NBA,Miami Heat,True
+1992,NBA,Milwaukee Bucks,False
+1992,NBA,Minnesota Timberwolves,False
+1992,NBA,New Jersey Nets,True
+1992,NBA,New York Knicks,True
+1992,NBA,Orlando Magic,False
+1992,NBA,Philadelphia 76ers,False
+1992,NBA,Phoenix Suns,True
+1992,NBA,Portland Trail Blazers,True
+1992,NBA,Sacramento Kings,False
+1992,NBA,San Antonio Spurs,True
+1992,NBA,Seattle SuperSonics,True
+1992,NBA,Utah Jazz,True
+1992,NBA,Washington Bullets,False
+1992,NBA,League Average,False
+1991,NBA,Atlanta Hawks,True
+1991,NBA,Boston Celtics,True
+1991,NBA,Charlotte Hornets,False
+1991,NBA,Chicago Bulls,True
+1991,NBA,Cleveland Cavaliers,False
+1991,NBA,Dallas Mavericks,False
+1991,NBA,Denver Nuggets,False
+1991,NBA,Detroit Pistons,True
+1991,NBA,Golden State Warriors,True
+1991,NBA,Houston Rockets,True
+1991,NBA,Indiana Pacers,True
+1991,NBA,Los Angeles Clippers,False
+1991,NBA,Los Angeles Lakers,True
+1991,NBA,Miami Heat,False
+1991,NBA,Milwaukee Bucks,True
+1991,NBA,Minnesota Timberwolves,False
+1991,NBA,New Jersey Nets,False
+1991,NBA,New York Knicks,True
+1991,NBA,Orlando Magic,False
+1991,NBA,Philadelphia 76ers,True
+1991,NBA,Phoenix Suns,True
+1991,NBA,Portland Trail Blazers,True
+1991,NBA,Sacramento Kings,False
+1991,NBA,San Antonio Spurs,True
+1991,NBA,Seattle SuperSonics,True
+1991,NBA,Utah Jazz,True
+1991,NBA,Washington Bullets,False
+1991,NBA,League Average,False
+1990,NBA,Atlanta Hawks,False
+1990,NBA,Boston Celtics,True
+1990,NBA,Charlotte Hornets,False
+1990,NBA,Chicago Bulls,True
+1990,NBA,Cleveland Cavaliers,True
+1990,NBA,Dallas Mavericks,True
+1990,NBA,Denver Nuggets,True
+1990,NBA,Detroit Pistons,True
+1990,NBA,Golden State Warriors,False
+1990,NBA,Houston Rockets,True
+1990,NBA,Indiana Pacers,True
+1990,NBA,Los Angeles Clippers,False
+1990,NBA,Los Angeles Lakers,True
+1990,NBA,Miami Heat,False
+1990,NBA,Milwaukee Bucks,True
+1990,NBA,Minnesota Timberwolves,False
+1990,NBA,New Jersey Nets,False
+1990,NBA,New York Knicks,True
+1990,NBA,Orlando Magic,False
+1990,NBA,Philadelphia 76ers,True
+1990,NBA,Phoenix Suns,True
+1990,NBA,Portland Trail Blazers,True
+1990,NBA,Sacramento Kings,False
+1990,NBA,San Antonio Spurs,True
+1990,NBA,Seattle SuperSonics,False
+1990,NBA,Utah Jazz,True
+1990,NBA,Washington Bullets,False
+1990,NBA,League Average,False
+1989,NBA,Atlanta Hawks,True
+1989,NBA,Boston Celtics,True
+1989,NBA,Charlotte Hornets,False
+1989,NBA,Chicago Bulls,True
+1989,NBA,Cleveland Cavaliers,True
+1989,NBA,Dallas Mavericks,False
+1989,NBA,Denver Nuggets,True
+1989,NBA,Detroit Pistons,True
+1989,NBA,Golden State Warriors,True
+1989,NBA,Houston Rockets,True
+1989,NBA,Indiana Pacers,False
+1989,NBA,Los Angeles Clippers,False
+1989,NBA,Los Angeles Lakers,True
+1989,NBA,Miami Heat,False
+1989,NBA,Milwaukee Bucks,True
+1989,NBA,New Jersey Nets,False
+1989,NBA,New York Knicks,True
+1989,NBA,Philadelphia 76ers,True
+1989,NBA,Phoenix Suns,True
+1989,NBA,Portland Trail Blazers,True
+1989,NBA,Sacramento Kings,False
+1989,NBA,San Antonio Spurs,False
+1989,NBA,Seattle SuperSonics,True
+1989,NBA,Utah Jazz,True
+1989,NBA,Washington Bullets,False
+1989,NBA,League Average,False
+1988,NBA,Atlanta Hawks,True
+1988,NBA,Boston Celtics,True
+1988,NBA,Chicago Bulls,True
+1988,NBA,Cleveland Cavaliers,True
+1988,NBA,Dallas Mavericks,True
+1988,NBA,Denver Nuggets,True
+1988,NBA,Detroit Pistons,True
+1988,NBA,Golden State Warriors,False
+1988,NBA,Houston Rockets,True
+1988,NBA,Indiana Pacers,False
+1988,NBA,Los Angeles Clippers,False
+1988,NBA,Los Angeles Lakers,True
+1988,NBA,Milwaukee Bucks,True
+1988,NBA,New Jersey Nets,False
+1988,NBA,New York Knicks,True
+1988,NBA,Philadelphia 76ers,False
+1988,NBA,Phoenix Suns,False
+1988,NBA,Portland Trail Blazers,True
+1988,NBA,Sacramento Kings,False
+1988,NBA,San Antonio Spurs,True
+1988,NBA,Seattle SuperSonics,True
+1988,NBA,Utah Jazz,True
+1988,NBA,Washington Bullets,True
+1988,NBA,League Average,False
+1987,NBA,Atlanta Hawks,True
+1987,NBA,Boston Celtics,True
+1987,NBA,Chicago Bulls,True
+1987,NBA,Cleveland Cavaliers,False
+1987,NBA,Dallas Mavericks,True
+1987,NBA,Denver Nuggets,True
+1987,NBA,Detroit Pistons,True
+1987,NBA,Golden State Warriors,True
+1987,NBA,Houston Rockets,True
+1987,NBA,Indiana Pacers,True
+1987,NBA,Los Angeles Clippers,False
+1987,NBA,Los Angeles Lakers,True
+1987,NBA,Milwaukee Bucks,True
+1987,NBA,New Jersey Nets,False
+1987,NBA,New York Knicks,False
+1987,NBA,Philadelphia 76ers,True
+1987,NBA,Phoenix Suns,False
+1987,NBA,Portland Trail Blazers,True
+1987,NBA,Sacramento Kings,False
+1987,NBA,San Antonio Spurs,False
+1987,NBA,Seattle SuperSonics,True
+1987,NBA,Utah Jazz,True
+1987,NBA,Washington Bullets,True
+1987,NBA,League Average,False
+1986,NBA,Atlanta Hawks,True
+1986,NBA,Boston Celtics,True
+1986,NBA,Chicago Bulls,True
+1986,NBA,Cleveland Cavaliers,False
+1986,NBA,Dallas Mavericks,True
+1986,NBA,Denver Nuggets,True
+1986,NBA,Detroit Pistons,True
+1986,NBA,Golden State Warriors,False
+1986,NBA,Houston Rockets,True
+1986,NBA,Indiana Pacers,False
+1986,NBA,Los Angeles Clippers,False
+1986,NBA,Los Angeles Lakers,True
+1986,NBA,Milwaukee Bucks,True
+1986,NBA,New Jersey Nets,True
+1986,NBA,New York Knicks,False
+1986,NBA,Philadelphia 76ers,True
+1986,NBA,Phoenix Suns,False
+1986,NBA,Portland Trail Blazers,True
+1986,NBA,Sacramento Kings,True
+1986,NBA,San Antonio Spurs,True
+1986,NBA,Seattle SuperSonics,False
+1986,NBA,Utah Jazz,True
+1986,NBA,Washington Bullets,True
+1986,NBA,League Average,False
+1985,NBA,Atlanta Hawks,False
+1985,NBA,Boston Celtics,True
+1985,NBA,Chicago Bulls,True
+1985,NBA,Cleveland Cavaliers,True
+1985,NBA,Dallas Mavericks,True
+1985,NBA,Denver Nuggets,True
+1985,NBA,Detroit Pistons,True
+1985,NBA,Golden State Warriors,False
+1985,NBA,Houston Rockets,True
+1985,NBA,Indiana Pacers,False
+1985,NBA,Kansas City Kings,False
+1985,NBA,Los Angeles Clippers,False
+1985,NBA,Los Angeles Lakers,True
+1985,NBA,Milwaukee Bucks,True
+1985,NBA,New Jersey Nets,True
+1985,NBA,New York Knicks,False
+1985,NBA,Philadelphia 76ers,True
+1985,NBA,Phoenix Suns,True
+1985,NBA,Portland Trail Blazers,True
+1985,NBA,San Antonio Spurs,True
+1985,NBA,Seattle SuperSonics,False
+1985,NBA,Utah Jazz,True
+1985,NBA,Washington Bullets,True
+1985,NBA,League Average,False
+1984,NBA,Atlanta Hawks,True
+1984,NBA,Boston Celtics,True
+1984,NBA,Chicago Bulls,False
+1984,NBA,Cleveland Cavaliers,False
+1984,NBA,Dallas Mavericks,True
+1984,NBA,Denver Nuggets,True
+1984,NBA,Detroit Pistons,True
+1984,NBA,Golden State Warriors,False
+1984,NBA,Houston Rockets,False
+1984,NBA,Indiana Pacers,False
+1984,NBA,Kansas City Kings,True
+1984,NBA,Los Angeles Lakers,True
+1984,NBA,Milwaukee Bucks,True
+1984,NBA,New Jersey Nets,True
+1984,NBA,New York Knicks,True
+1984,NBA,Philadelphia 76ers,True
+1984,NBA,Phoenix Suns,True
+1984,NBA,Portland Trail Blazers,True
+1984,NBA,San Antonio Spurs,False
+1984,NBA,San Diego Clippers,False
+1984,NBA,Seattle SuperSonics,True
+1984,NBA,Utah Jazz,True
+1984,NBA,Washington Bullets,True
+1984,NBA,League Average,False
+1983,NBA,Atlanta Hawks,True
+1983,NBA,Boston Celtics,True
+1983,NBA,Chicago Bulls,False
+1983,NBA,Cleveland Cavaliers,False
+1983,NBA,Dallas Mavericks,False
+1983,NBA,Denver Nuggets,True
+1983,NBA,Detroit Pistons,False
+1983,NBA,Golden State Warriors,False
+1983,NBA,Houston Rockets,False
+1983,NBA,Indiana Pacers,False
+1983,NBA,Kansas City Kings,False
+1983,NBA,Los Angeles Lakers,True
+1983,NBA,Milwaukee Bucks,True
+1983,NBA,New Jersey Nets,True
+1983,NBA,New York Knicks,True
+1983,NBA,Philadelphia 76ers,True
+1983,NBA,Phoenix Suns,True
+1983,NBA,Portland Trail Blazers,True
+1983,NBA,San Antonio Spurs,True
+1983,NBA,San Diego Clippers,False
+1983,NBA,Seattle SuperSonics,True
+1983,NBA,Utah Jazz,False
+1983,NBA,Washington Bullets,False
+1983,NBA,League Average,False
+1982,NBA,Atlanta Hawks,True
+1982,NBA,Boston Celtics,True
+1982,NBA,Chicago Bulls,False
+1982,NBA,Cleveland Cavaliers,False
+1982,NBA,Dallas Mavericks,False
+1982,NBA,Denver Nuggets,True
+1982,NBA,Detroit Pistons,False
+1982,NBA,Golden State Warriors,False
+1982,NBA,Houston Rockets,True
+1982,NBA,Indiana Pacers,False
+1982,NBA,Kansas City Kings,False
+1982,NBA,Los Angeles Lakers,True
+1982,NBA,Milwaukee Bucks,True
+1982,NBA,New Jersey Nets,True
+1982,NBA,New York Knicks,False
+1982,NBA,Philadelphia 76ers,True
+1982,NBA,Phoenix Suns,True
+1982,NBA,Portland Trail Blazers,False
+1982,NBA,San Antonio Spurs,True
+1982,NBA,San Diego Clippers,False
+1982,NBA,Seattle SuperSonics,True
+1982,NBA,Utah Jazz,False
+1982,NBA,Washington Bullets,True
+1982,NBA,League Average,False
+1981,NBA,Atlanta Hawks,False
+1981,NBA,Boston Celtics,True
+1981,NBA,Chicago Bulls,True
+1981,NBA,Cleveland Cavaliers,False
+1981,NBA,Dallas Mavericks,False
+1981,NBA,Denver Nuggets,False
+1981,NBA,Detroit Pistons,False
+1981,NBA,Golden State Warriors,False
+1981,NBA,Houston Rockets,True
+1981,NBA,Indiana Pacers,True
+1981,NBA,Kansas City Kings,True
+1981,NBA,Los Angeles Lakers,True
+1981,NBA,Milwaukee Bucks,True
+1981,NBA,New Jersey Nets,False
+1981,NBA,New York Knicks,True
+1981,NBA,Philadelphia 76ers,True
+1981,NBA,Phoenix Suns,True
+1981,NBA,Portland Trail Blazers,True
+1981,NBA,San Antonio Spurs,True
+1981,NBA,San Diego Clippers,False
+1981,NBA,Seattle SuperSonics,False
+1981,NBA,Utah Jazz,False
+1981,NBA,Washington Bullets,False
+1981,NBA,League Average,False
+1980,NBA,Atlanta Hawks,True
+1980,NBA,Boston Celtics,True
+1980,NBA,Chicago Bulls,False
+1980,NBA,Cleveland Cavaliers,False
+1980,NBA,Denver Nuggets,False
+1980,NBA,Detroit Pistons,False
+1980,NBA,Golden State Warriors,False
+1980,NBA,Houston Rockets,True
+1980,NBA,Indiana Pacers,False
+1980,NBA,Kansas City Kings,True
+1980,NBA,Los Angeles Lakers,True
+1980,NBA,Milwaukee Bucks,True
+1980,NBA,New Jersey Nets,False
+1980,NBA,New York Knicks,False
+1980,NBA,Philadelphia 76ers,True
+1980,NBA,Phoenix Suns,True
+1980,NBA,Portland Trail Blazers,True
+1980,NBA,San Antonio Spurs,True
+1980,NBA,San Diego Clippers,False
+1980,NBA,Seattle SuperSonics,True
+1980,NBA,Utah Jazz,False
+1980,NBA,Washington Bullets,True
+1980,NBA,League Average,False
+1979,NBA,Atlanta Hawks,True
+1979,NBA,Boston Celtics,False
+1979,NBA,Chicago Bulls,False
+1979,NBA,Cleveland Cavaliers,False
+1979,NBA,Denver Nuggets,True
+1979,NBA,Detroit Pistons,False
+1979,NBA,Golden State Warriors,False
+1979,NBA,Houston Rockets,True
+1979,NBA,Indiana Pacers,False
+1979,NBA,Kansas City Kings,True
+1979,NBA,Los Angeles Lakers,True
+1979,NBA,Milwaukee Bucks,False
+1979,NBA,New Jersey Nets,True
+1979,NBA,New Orleans Jazz,False
+1979,NBA,New York Knicks,False
+1979,NBA,Philadelphia 76ers,True
+1979,NBA,Phoenix Suns,True
+1979,NBA,Portland Trail Blazers,True
+1979,NBA,San Antonio Spurs,True
+1979,NBA,San Diego Clippers,False
+1979,NBA,Seattle SuperSonics,True
+1979,NBA,Washington Bullets,True
+1979,NBA,League Average,False
+1978,NBA,Atlanta Hawks,True
+1978,NBA,Boston Celtics,False
+1978,NBA,Buffalo Braves,False
+1978,NBA,Chicago Bulls,False
+1978,NBA,Cleveland Cavaliers,True
+1978,NBA,Denver Nuggets,True
+1978,NBA,Detroit Pistons,False
+1978,NBA,Golden State Warriors,False
+1978,NBA,Houston Rockets,False
+1978,NBA,Indiana Pacers,False
+1978,NBA,Kansas City Kings,False
+1978,NBA,Los Angeles Lakers,True
+1978,NBA,Milwaukee Bucks,True
+1978,NBA,New Jersey Nets,False
+1978,NBA,New Orleans Jazz,False
+1978,NBA,New York Knicks,True
+1978,NBA,Philadelphia 76ers,True
+1978,NBA,Phoenix Suns,True
+1978,NBA,Portland Trail Blazers,True
+1978,NBA,San Antonio Spurs,True
+1978,NBA,Seattle SuperSonics,True
+1978,NBA,Washington Bullets,True
+1978,NBA,League Average,False
+1977,NBA,Atlanta Hawks,False
+1977,NBA,Boston Celtics,True
+1977,NBA,Buffalo Braves,False
+1977,NBA,Chicago Bulls,True
+1977,NBA,Cleveland Cavaliers,True
+1977,NBA,Denver Nuggets,True
+1977,NBA,Detroit Pistons,True
+1977,NBA,Golden State Warriors,True
+1977,NBA,Houston Rockets,True
+1977,NBA,Indiana Pacers,False
+1977,NBA,Kansas City Kings,False
+1977,NBA,Los Angeles Lakers,True
+1977,NBA,Milwaukee Bucks,False
+1977,NBA,New Orleans Jazz,False
+1977,NBA,New York Knicks,False
+1977,NBA,New York Nets,False
+1977,NBA,Philadelphia 76ers,True
+1977,NBA,Phoenix Suns,False
+1977,NBA,Portland Trail Blazers,True
+1977,NBA,San Antonio Spurs,True
+1977,NBA,Seattle SuperSonics,False
+1977,NBA,Washington Bullets,True
+1977,NBA,League Average,False
+1976,ABA,Denver Nuggets,True
+1976,ABA,Indiana Pacers,True
+1976,ABA,Kentucky Colonels,True
+1976,ABA,New York Nets,True
+1976,ABA,San Antonio Spurs,True
+1976,ABA,San Diego Sails,False
+1976,ABA,Spirits of St. Louis,False
+1976,ABA,Utah Stars,False
+1976,ABA,Virginia Squires,False
+1976,ABA,League Average,False
+1976,NBA,Atlanta Hawks,False
+1976,NBA,Boston Celtics,True
+1976,NBA,Buffalo Braves,True
+1976,NBA,Chicago Bulls,False
+1976,NBA,Cleveland Cavaliers,True
+1976,NBA,Detroit Pistons,True
+1976,NBA,Golden State Warriors,True
+1976,NBA,Houston Rockets,False
+1976,NBA,Kansas City Kings,False
+1976,NBA,Los Angeles Lakers,False
+1976,NBA,Milwaukee Bucks,True
+1976,NBA,New Orleans Jazz,False
+1976,NBA,New York Knicks,False
+1976,NBA,Philadelphia 76ers,True
+1976,NBA,Phoenix Suns,True
+1976,NBA,Portland Trail Blazers,False
+1976,NBA,Seattle SuperSonics,True
+1976,NBA,Washington Bullets,True
+1975,ABA,Denver Nuggets,True
+1975,ABA,Indiana Pacers,True
+1975,ABA,Kentucky Colonels,True
+1975,ABA,Memphis Sounds,True
+1975,ABA,New York Nets,True
+1975,ABA,San Antonio Spurs,True
+1975,ABA,San Diego Conquistadors,False
+1975,ABA,Spirits of St. Louis,True
+1975,ABA,Utah Stars,True
+1975,ABA,Virginia Squires,False
+1975,ABA,League Average,False
+1975,NBA,Atlanta Hawks,False
+1975,NBA,Boston Celtics,True
+1975,NBA,Buffalo Braves,True
+1975,NBA,Chicago Bulls,True
+1975,NBA,Cleveland Cavaliers,False
+1975,NBA,Detroit Pistons,True
+1975,NBA,Golden State Warriors,True
+1975,NBA,Houston Rockets,True
+1975,NBA,Kansas City-Omaha Kings,True
+1975,NBA,Los Angeles Lakers,False
+1975,NBA,Milwaukee Bucks,False
+1975,NBA,New Orleans Jazz,False
+1975,NBA,New York Knicks,True
+1975,NBA,Philadelphia 76ers,False
+1975,NBA,Phoenix Suns,False
+1975,NBA,Portland Trail Blazers,False
+1975,NBA,Seattle SuperSonics,True
+1975,NBA,Washington Bullets,True
+1974,ABA,Carolina Cougars,True
+1974,ABA,Denver Rockets,True
+1974,ABA,Indiana Pacers,True
+1974,ABA,Kentucky Colonels,True
+1974,ABA,Memphis Tams,False
+1974,ABA,New York Nets,True
+1974,ABA,San Antonio Spurs,True
+1974,ABA,San Diego Conquistadors,True
+1974,ABA,Utah Stars,True
+1974,ABA,Virginia Squires,True
+1974,ABA,League Average,False
+1974,NBA,Atlanta Hawks,False
+1974,NBA,Boston Celtics,True
+1974,NBA,Buffalo Braves,True
+1974,NBA,Capital Bullets,True
+1974,NBA,Chicago Bulls,True
+1974,NBA,Cleveland Cavaliers,False
+1974,NBA,Detroit Pistons,True
+1974,NBA,Golden State Warriors,False
+1974,NBA,Houston Rockets,False
+1974,NBA,Kansas City-Omaha Kings,False
+1974,NBA,Los Angeles Lakers,True
+1974,NBA,Milwaukee Bucks,True
+1974,NBA,New York Knicks,True
+1974,NBA,Philadelphia 76ers,False
+1974,NBA,Phoenix Suns,False
+1974,NBA,Portland Trail Blazers,False
+1974,NBA,Seattle SuperSonics,False
+1973,ABA,Carolina Cougars,True
+1973,ABA,Dallas Chaparrals,False
+1973,ABA,Denver Rockets,True
+1973,ABA,Indiana Pacers,True
+1973,ABA,Kentucky Colonels,True
+1973,ABA,Memphis Tams,False
+1973,ABA,New York Nets,True
+1973,ABA,San Diego Conquistadors,True
+1973,ABA,Utah Stars,True
+1973,ABA,Virginia Squires,True
+1973,ABA,League Average,False
+1973,NBA,Atlanta Hawks,True
+1973,NBA,Baltimore Bullets,True
+1973,NBA,Boston Celtics,True
+1973,NBA,Buffalo Braves,False
+1973,NBA,Chicago Bulls,True
+1973,NBA,Cleveland Cavaliers,False
+1973,NBA,Detroit Pistons,False
+1973,NBA,Golden State Warriors,True
+1973,NBA,Houston Rockets,False
+1973,NBA,Kansas City-Omaha Kings,False
+1973,NBA,Los Angeles Lakers,True
+1973,NBA,Milwaukee Bucks,True
+1973,NBA,New York Knicks,True
+1973,NBA,Philadelphia 76ers,False
+1973,NBA,Phoenix Suns,False
+1973,NBA,Portland Trail Blazers,False
+1973,NBA,Seattle SuperSonics,False
+1972,ABA,Carolina Cougars,False
+1972,ABA,Dallas Chaparrals,True
+1972,ABA,Denver Rockets,True
+1972,ABA,The Floridians,True
+1972,ABA,Indiana Pacers,True
+1972,ABA,Kentucky Colonels,True
+1972,ABA,Memphis Pros,False
+1972,ABA,New York Nets,True
+1972,ABA,Pittsburgh Condors,False
+1972,ABA,Utah Stars,True
+1972,ABA,Virginia Squires,True
+1972,ABA,League Average,False
+1972,NBA,Atlanta Hawks,True
+1972,NBA,Baltimore Bullets,True
+1972,NBA,Boston Celtics,True
+1972,NBA,Buffalo Braves,False
+1972,NBA,Chicago Bulls,True
+1972,NBA,Cincinnati Royals,False
+1972,NBA,Cleveland Cavaliers,False
+1972,NBA,Detroit Pistons,False
+1972,NBA,Golden State Warriors,True
+1972,NBA,Houston Rockets,False
+1972,NBA,Los Angeles Lakers,True
+1972,NBA,Milwaukee Bucks,True
+1972,NBA,New York Knicks,True
+1972,NBA,Philadelphia 76ers,False
+1972,NBA,Phoenix Suns,False
+1972,NBA,Portland Trail Blazers,False
+1972,NBA,Seattle SuperSonics,False
+1971,ABA,Carolina Cougars,False
+1971,ABA,Denver Rockets,True
+1971,ABA,The Floridians,True
+1971,ABA,Indiana Pacers,True
+1971,ABA,Kentucky Colonels,True
+1971,ABA,Memphis Pros,True
+1971,ABA,New York Nets,True
+1971,ABA,Pittsburgh Condors,False
+1971,ABA,Texas Chaparrals,True
+1971,ABA,Utah Stars,True
+1971,ABA,Virginia Squires,True
+1971,ABA,League Average,False
+1971,NBA,Atlanta Hawks,True
+1971,NBA,Baltimore Bullets,True
+1971,NBA,Boston Celtics,False
+1971,NBA,Buffalo Braves,False
+1971,NBA,Chicago Bulls,True
+1971,NBA,Cincinnati Royals,False
+1971,NBA,Cleveland Cavaliers,False
+1971,NBA,Detroit Pistons,False
+1971,NBA,Los Angeles Lakers,True
+1971,NBA,Milwaukee Bucks,True
+1971,NBA,New York Knicks,True
+1971,NBA,Philadelphia 76ers,True
+1971,NBA,Phoenix Suns,False
+1971,NBA,Portland Trail Blazers,False
+1971,NBA,San Diego Rockets,False
+1971,NBA,Seattle SuperSonics,False
+1971,NBA,San Francisco Warriors,True
+1970,ABA,Carolina Cougars,True
+1970,ABA,Dallas Chaparrals,True
+1970,ABA,Denver Rockets,True
+1970,ABA,Indiana Pacers,True
+1970,ABA,Kentucky Colonels,True
+1970,ABA,Los Angeles Stars,True
+1970,ABA,Miami Floridians,False
+1970,ABA,New Orleans Buccaneers,False
+1970,ABA,New York Nets,True
+1970,ABA,Pittsburgh Pipers,False
+1970,ABA,Washington Capitols,True
+1970,ABA,League Average,False
+1970,NBA,Atlanta Hawks,True
+1970,NBA,Baltimore Bullets,True
+1970,NBA,Boston Celtics,False
+1970,NBA,Chicago Bulls,True
+1970,NBA,Cincinnati Royals,False
+1970,NBA,Detroit Pistons,False
+1970,NBA,Los Angeles Lakers,True
+1970,NBA,Milwaukee Bucks,True
+1970,NBA,New York Knicks,True
+1970,NBA,Philadelphia 76ers,True
+1970,NBA,Phoenix Suns,True
+1970,NBA,San Diego Rockets,False
+1970,NBA,Seattle SuperSonics,False
+1970,NBA,San Francisco Warriors,False
+1969,ABA,Dallas Chaparrals,True
+1969,ABA,Denver Rockets,True
+1969,ABA,Houston Mavericks,False
+1969,ABA,Indiana Pacers,True
+1969,ABA,Kentucky Colonels,True
+1969,ABA,Los Angeles Stars,False
+1969,ABA,Miami Floridians,True
+1969,ABA,Minnesota Pipers,True
+1969,ABA,New Orleans Buccaneers,True
+1969,ABA,New York Nets,False
+1969,ABA,Oakland Oaks,True
+1969,ABA,League Average,False
+1969,NBA,Atlanta Hawks,True
+1969,NBA,Baltimore Bullets,True
+1969,NBA,Boston Celtics,True
+1969,NBA,Chicago Bulls,False
+1969,NBA,Cincinnati Royals,False
+1969,NBA,Detroit Pistons,False
+1969,NBA,Los Angeles Lakers,True
+1969,NBA,Milwaukee Bucks,False
+1969,NBA,New York Knicks,True
+1969,NBA,Philadelphia 76ers,True
+1969,NBA,Phoenix Suns,False
+1969,NBA,San Diego Rockets,True
+1969,NBA,Seattle SuperSonics,False
+1969,NBA,San Francisco Warriors,True
+1968,ABA,Anaheim Amigos,False
+1968,ABA,Dallas Chaparrals,True
+1968,ABA,Denver Rockets,True
+1968,ABA,Houston Mavericks,True
+1968,ABA,Indiana Pacers,True
+1968,ABA,Kentucky Colonels,True
+1968,ABA,Minnesota Muskies,True
+1968,ABA,New Jersey Americans,False
+1968,ABA,New Orleans Buccaneers,True
+1968,ABA,Oakland Oaks,False
+1968,ABA,Pittsburgh Pipers,True
+1968,ABA,League Average,False
+1968,NBA,Baltimore Bullets,False
+1968,NBA,Boston Celtics,True
+1968,NBA,Chicago Bulls,True
+1968,NBA,Cincinnati Royals,False
+1968,NBA,Detroit Pistons,True
+1968,NBA,Los Angeles Lakers,True
+1968,NBA,New York Knicks,True
+1968,NBA,Philadelphia 76ers,True
+1968,NBA,San Diego Rockets,False
+1968,NBA,Seattle SuperSonics,False
+1968,NBA,San Francisco Warriors,True
+1968,NBA,St. Louis Hawks,True
+1967,NBA,Baltimore Bullets,False
+1967,NBA,Boston Celtics,True
+1967,NBA,Chicago Bulls,True
+1967,NBA,Cincinnati Royals,True
+1967,NBA,Detroit Pistons,False
+1967,NBA,Los Angeles Lakers,True
+1967,NBA,New York Knicks,True
+1967,NBA,Philadelphia 76ers,True
+1967,NBA,San Francisco Warriors,True
+1967,NBA,St. Louis Hawks,True
+1967,NBA,League Average,False
+1966,NBA,Baltimore Bullets,True
+1966,NBA,Boston Celtics,True
+1966,NBA,Cincinnati Royals,True
+1966,NBA,Detroit Pistons,False
+1966,NBA,Los Angeles Lakers,True
+1966,NBA,New York Knicks,False
+1966,NBA,Philadelphia 76ers,True
+1966,NBA,San Francisco Warriors,False
+1966,NBA,St. Louis Hawks,True
+1966,NBA,League Average,False
+1965,NBA,Baltimore Bullets,True
+1965,NBA,Boston Celtics,True
+1965,NBA,Cincinnati Royals,True
+1965,NBA,Detroit Pistons,False
+1965,NBA,Los Angeles Lakers,True
+1965,NBA,New York Knicks,False
+1965,NBA,Philadelphia 76ers,True
+1965,NBA,San Francisco Warriors,False
+1965,NBA,St. Louis Hawks,True
+1965,NBA,League Average,False
+1964,NBA,Baltimore Bullets,False
+1964,NBA,Boston Celtics,True
+1964,NBA,Cincinnati Royals,True
+1964,NBA,Detroit Pistons,False
+1964,NBA,Los Angeles Lakers,True
+1964,NBA,New York Knicks,False
+1964,NBA,Philadelphia 76ers,True
+1964,NBA,San Francisco Warriors,True
+1964,NBA,St. Louis Hawks,True
+1964,NBA,League Average,False
+1963,NBA,Boston Celtics,True
+1963,NBA,Chicago Zephyrs,False
+1963,NBA,Cincinnati Royals,True
+1963,NBA,Detroit Pistons,True
+1963,NBA,Los Angeles Lakers,True
+1963,NBA,New York Knicks,False
+1963,NBA,San Francisco Warriors,False
+1963,NBA,St. Louis Hawks,True
+1963,NBA,Syracuse Nationals,True
+1963,NBA,League Average,False
+1962,NBA,Boston Celtics,True
+1962,NBA,Chicago Packers,False
+1962,NBA,Cincinnati Royals,True
+1962,NBA,Detroit Pistons,True
+1962,NBA,Los Angeles Lakers,True
+1962,NBA,New York Knicks,False
+1962,NBA,Philadelphia Warriors,True
+1962,NBA,St. Louis Hawks,False
+1962,NBA,Syracuse Nationals,True
+1962,NBA,League Average,False
+1961,NBA,Boston Celtics,True
+1961,NBA,Cincinnati Royals,False
+1961,NBA,Detroit Pistons,True
+1961,NBA,Los Angeles Lakers,True
+1961,NBA,New York Knicks,False
+1961,NBA,Philadelphia Warriors,True
+1961,NBA,St. Louis Hawks,True
+1961,NBA,Syracuse Nationals,True
+1961,NBA,League Average,False
+1960,NBA,Boston Celtics,True
+1960,NBA,Cincinnati Royals,False
+1960,NBA,Detroit Pistons,True
+1960,NBA,Minneapolis Lakers,True
+1960,NBA,New York Knicks,False
+1960,NBA,Philadelphia Warriors,True
+1960,NBA,St. Louis Hawks,True
+1960,NBA,Syracuse Nationals,True
+1960,NBA,League Average,False
+1959,NBA,Boston Celtics,True
+1959,NBA,Cincinnati Royals,False
+1959,NBA,Detroit Pistons,True
+1959,NBA,Minneapolis Lakers,True
+1959,NBA,New York Knicks,True
+1959,NBA,Philadelphia Warriors,False
+1959,NBA,St. Louis Hawks,True
+1959,NBA,Syracuse Nationals,True
+1959,NBA,League Average,False
+1958,NBA,Boston Celtics,True
+1958,NBA,Cincinnati Royals,True
+1958,NBA,Detroit Pistons,True
+1958,NBA,Minneapolis Lakers,False
+1958,NBA,New York Knicks,False
+1958,NBA,Philadelphia Warriors,True
+1958,NBA,St. Louis Hawks,True
+1958,NBA,Syracuse Nationals,True
+1958,NBA,League Average,False
+1957,NBA,Boston Celtics,True
+1957,NBA,Fort Wayne Pistons,True
+1957,NBA,Minneapolis Lakers,True
+1957,NBA,New York Knicks,False
+1957,NBA,Philadelphia Warriors,True
+1957,NBA,Rochester Royals,False
+1957,NBA,St. Louis Hawks,True
+1957,NBA,Syracuse Nationals,True
+1957,NBA,League Average,False
+1956,NBA,Boston Celtics,True
+1956,NBA,Fort Wayne Pistons,True
+1956,NBA,Minneapolis Lakers,True
+1956,NBA,New York Knicks,True
+1956,NBA,Philadelphia Warriors,True
+1956,NBA,Rochester Royals,False
+1956,NBA,St. Louis Hawks,True
+1956,NBA,Syracuse Nationals,True
+1956,NBA,League Average,False
+1955,NBA,Baltimore Bullets,False
+1955,NBA,Boston Celtics,True
+1955,NBA,Fort Wayne Pistons,True
+1955,NBA,Milwaukee Hawks,False
+1955,NBA,Minneapolis Lakers,True
+1955,NBA,New York Knicks,True
+1955,NBA,Philadelphia Warriors,False
+1955,NBA,Rochester Royals,True
+1955,NBA,Syracuse Nationals,True
+1955,NBA,League Average,False
+1954,NBA,Baltimore Bullets,False
+1954,NBA,Boston Celtics,True
+1954,NBA,Fort Wayne Pistons,True
+1954,NBA,Milwaukee Hawks,False
+1954,NBA,Minneapolis Lakers,True
+1954,NBA,New York Knicks,True
+1954,NBA,Philadelphia Warriors,False
+1954,NBA,Rochester Royals,True
+1954,NBA,Syracuse Nationals,True
+1954,NBA,League Average,False
+1953,NBA,Baltimore Bullets,True
+1953,NBA,Boston Celtics,True
+1953,NBA,Fort Wayne Pistons,True
+1953,NBA,Indianapolis Olympians,True
+1953,NBA,Milwaukee Hawks,False
+1953,NBA,Minneapolis Lakers,True
+1953,NBA,New York Knicks,True
+1953,NBA,Philadelphia Warriors,False
+1953,NBA,Rochester Royals,True
+1953,NBA,Syracuse Nationals,True
+1953,NBA,League Average,False
+1952,NBA,Baltimore Bullets,False
+1952,NBA,Boston Celtics,True
+1952,NBA,Fort Wayne Pistons,True
+1952,NBA,Indianapolis Olympians,True
+1952,NBA,Milwaukee Hawks,False
+1952,NBA,Minneapolis Lakers,True
+1952,NBA,New York Knicks,True
+1952,NBA,Philadelphia Warriors,True
+1952,NBA,Rochester Royals,True
+1952,NBA,Syracuse Nationals,True
+1952,NBA,League Average,False
+1951,NBA,Baltimore Bullets,False
+1951,NBA,Boston Celtics,True
+1951,NBA,Fort Wayne Pistons,True
+1951,NBA,Indianapolis Olympians,True
+1951,NBA,Minneapolis Lakers,True
+1951,NBA,New York Knicks,True
+1951,NBA,Philadelphia Warriors,True
+1951,NBA,Rochester Royals,True
+1951,NBA,Syracuse Nationals,True
+1951,NBA,Tri-Cities Blackhawks,False
+1951,NBA,Washington Capitols,False
+1951,NBA,League Average,False
+1950,NBA,Anderson Packers,True
+1950,NBA,Baltimore Bullets,False
+1950,NBA,Boston Celtics,False
+1950,NBA,Chicago Stags,True
+1950,NBA,Denver Nuggets,False
+1950,NBA,Fort Wayne Pistons,True
+1950,NBA,Indianapolis Olympians,True
+1950,NBA,Minneapolis Lakers,True
+1950,NBA,New York Knicks,True
+1950,NBA,Philadelphia Warriors,True
+1950,NBA,Rochester Royals,True
+1950,NBA,Sheboygan Red Skins,True
+1950,NBA,St. Louis Bombers,False
+1950,NBA,Syracuse Nationals,True
+1950,NBA,Tri-Cities Blackhawks,True
+1950,NBA,Waterloo Hawks,False
+1950,NBA,Washington Capitols,True
+1950,NBA,League Average,False
+1949,BAA,Baltimore Bullets,True
+1949,BAA,Boston Celtics,False
+1949,BAA,Chicago Stags,True
+1949,BAA,Fort Wayne Pistons,False
+1949,BAA,Indianapolis Jets,False
+1949,BAA,Minneapolis Lakers,True
+1949,BAA,New York Knicks,True
+1949,BAA,Philadelphia Warriors,True
+1949,BAA,Providence Steamrollers,False
+1949,BAA,Rochester Royals,True
+1949,BAA,St. Louis Bombers,True
+1949,BAA,Washington Capitols,True
+1949,BAA,League Average,False
+1948,BAA,Baltimore Bullets,True
+1948,BAA,Boston Celtics,True
+1948,BAA,Chicago Stags,True
+1948,BAA,New York Knicks,True
+1948,BAA,Philadelphia Warriors,True
+1948,BAA,Providence Steamrollers,False
+1948,BAA,St. Louis Bombers,True
+1948,BAA,Washington Capitols,True
+1948,BAA,League Average,False
+1947,BAA,Boston Celtics,False
+1947,BAA,Chicago Stags,True
+1947,BAA,Cleveland Rebels,True
+1947,BAA,Detroit Falcons,False
+1947,BAA,New York Knicks,True
+1947,BAA,Philadelphia Warriors,True
+1947,BAA,Pittsburgh Ironmen,False
+1947,BAA,Providence Steamrollers,False
+1947,BAA,St. Louis Bombers,True
+1947,BAA,Toronto Huskies,False
+1947,BAA,Washington Capitols,True
+1947,BAA,League Average,False
